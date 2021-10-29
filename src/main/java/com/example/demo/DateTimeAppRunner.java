@@ -12,7 +12,6 @@ import java.util.Locale;
 import java.util.ResourceBundle;
 
 @Slf4j
-@Component
 public class DateTimeAppRunner implements ApplicationRunner {
     @Override
     public void run(ApplicationArguments args) throws Exception {
