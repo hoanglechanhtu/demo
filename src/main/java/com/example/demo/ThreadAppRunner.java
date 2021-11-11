@@ -12,7 +12,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-@Component
 @Slf4j
 public class ThreadAppRunner implements ApplicationRunner {
     @Override
