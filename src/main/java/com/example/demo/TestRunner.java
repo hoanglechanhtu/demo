@@ -7,7 +7,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.*;
 
-@Component
 @Slf4j
 public class TestRunner implements ApplicationRunner {
     @Override
